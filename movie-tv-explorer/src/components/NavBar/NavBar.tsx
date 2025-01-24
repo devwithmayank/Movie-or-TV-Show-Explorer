@@ -1,4 +1,3 @@
-import LightModeToggle from "./LightModeToggle";
 
 const NavBar = () => {
   return <>
